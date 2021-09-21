@@ -1,3 +1,4 @@
+.gitignore
 .Rproj.user
 .Rhistory
 .RData
@@ -5,3 +6,4 @@
 Gemfile
 Gemfile.lock
 geschichten-von-anderswo.Rproj
+_site
