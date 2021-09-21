@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.img-left {
+  float: left;
+  margin-right: 1em;
+  width: 20%;
+  border: 1px solid;
+}
+
+.clear-both {
+  margin-top: 5em;
+  clear: both;
+}
