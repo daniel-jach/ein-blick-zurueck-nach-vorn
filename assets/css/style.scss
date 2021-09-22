@@ -6,11 +6,40 @@
 .img-left {
   float: left;
   margin-right: 1em;
-  width: 20%;
+  width: 25%;
   border: 1px solid;
+  margin-top: 20px;
+}
+
+.text-right {
+  float: right;
+  width: 70%;
+  margin-top: 20px;
 }
 
 .clear-both {
-  margin-top: 5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
   clear: both;
+}
+
+#header_wrap, #footer_wrap {
+background-color: #AA151E;
+background-image: linear-gradient(#AA151E,#AA151E);
+}
+
+#project_title, #project_tagline {
+  color: #FFFFFC;
+}
+
+#main_content_wrap {
+  background-color: #FFFFFC;
+  background-image: linear-gradient(#FFFFFC,#FFFFFC);
+  color: #000000;
+}
+
+#quote {
+  color: #AA151E; 
+  font-size: 20px; 
+  font-family: Gentium Basic;
 }
