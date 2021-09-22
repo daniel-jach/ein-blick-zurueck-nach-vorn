@@ -1,4 +1,4 @@
-![](images/toWest.png){: style="float: right; margin: 1em;" width="50%" title="Xuanzang aka Tang Seng reist nach Westen."}
+![](images/toWest.png){: title="Xuanzang aka Tang Seng reist nach Westen." .img-top}
 
 <p id="quote">
 Der Langsamste, der sein Ziel nicht aus den Augen verliert, geht immer noch geschwinder als der, der ziellos umherirrt. <br> (Gotthold Ephraim Lessing)

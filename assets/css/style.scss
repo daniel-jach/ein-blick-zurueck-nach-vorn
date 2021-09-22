@@ -38,6 +38,12 @@ background-image: linear-gradient(#AA151E,#AA151E);
   color: #000000;
 }
 
+.img-top {
+  float: right; 
+  margin: 1em;
+  width: 50%;
+}
+
 #quote {
   color: #AA151E; 
   font-size: 20px; 
@@ -53,4 +59,8 @@ background-image: linear-gradient(#AA151E,#AA151E);
     .text-right {
          width: 100%;
          margin-top: 5px;
-    }}
+    }
+    .img-top {
+      display: none;
+    }
+}
