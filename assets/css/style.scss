@@ -43,3 +43,15 @@ background-image: linear-gradient(#AA151E,#AA151E);
   font-size: 20px; 
   font-family: Gentium Basic;
 }
+
+@media screen and (max-width: 480px) {
+    .img-left {
+         width: 400px;
+         border: 1px solid;
+         margin-top: 5px;
+    }
+    
+    .text-right {
+         width: 400px;
+         margin-top: 5px;
+    }}
