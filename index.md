@@ -30,10 +30,10 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 
 <p class="clear-both"></p>
 
-![](images/toWest.png){: .img-left}
+![](images/bild-lihong.jpg){: .img-left}
 
 <p class="text-right" markdown="1">
-**Lihong** hat Germanistik in China und Deutschland studiert, hat dann in Deutschland ein Unternehmen gegründet, heute im Bereich Consulting in Deutschland tätig. Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text   
+**Lihong Dai** lebt in Berlin und ist im Bereich *Technologie Consulting* tätig. Sie hat Germanistik in China studiert und anschließend einen Master *Deutsch als Fremdsprache* in Deutschland erworben. Sie erzählt ihre Geschichte, wie sie von China nach Deutschland kam und über Leben, Studium und Arbeit in ihrer neuen Heimat.  
 <br>
 **Zeit** t.b.a. **Ort** t.b.a.
 </p>
