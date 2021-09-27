@@ -50,6 +50,16 @@ background-image: linear-gradient(#AA151E,#AA151E);
   font-family: Gentium Basic;
 }
 
+.qr {
+  float: left;
+  width: 15%;
+  margin: 15px;
+  margin-left: 5%;
+  margin-top: 5%;
+  background-color: #AA151E;
+  padding: 10px;
+}
+
 @media screen and (max-width: 480px) {
     .img-left {
          width: 100%;
@@ -63,4 +73,8 @@ background-image: linear-gradient(#AA151E,#AA151E);
     .img-top {
       display: none;
     }
+    
+.qr {
+  display: none;
+}
 }
