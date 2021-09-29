@@ -14,7 +14,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Guiling Wu** arbeitet im Bereich Kultur & Presse am Deutschen Generalkonsulat in Chengdu. Sie hat an der Fremdsprachenhochschule Sichuan (四川外国语大学) Germanistik studiert und anschließend in der Schweiz akademische und praktische Erfahrungen im Handel gemacht. Sie erzählt von ihrem Weg in die Schweiz und zurück nach China und was dabei neben dem Studium noch wichtig war.  
 <br>
-**Zeit** t.b.a. **Ort** t.b.a.
+**Zeit** Freitag, 29.10.2021, 19 Uhr **Ort** t.b.a.
 </p>
 
 
@@ -25,7 +25,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Lihong Dai** lebt in Berlin und ist im Bereich *Technologie Consulting* tätig. Sie hat Germanistik in China studiert und anschließend einen Master *Deutsch als Fremdsprache* in Deutschland erworben. Sie erzählt ihre Geschichte, wie sie von China nach Deutschland kam und über Leben, Studium und Arbeit in ihrer neuen Heimat.  
 <br>
-**Zeit** t.b.a. **Ort** t.b.a.
+**Zeit** Donnerstag, 11.11.2021, 19 Uhr **Ort** t.b.a.
 </p>
 
 <p class="clear-both"></p>
@@ -35,7 +35,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Tinghui Duan** promoviert seit 2018 in der Computerlinguistik der Universität Jena und arbeitet als wissenschaftlicher Mitarbeiter im Jenaer JULIE Lab. Er erzählt von seinem Studium, das ihn von der Renmin University of China (中国人民大学) in Beijing nach Deutschland, Österreich, Jordanien und in die Türkei geführt hat, und von seinem Leben als Forscher in Deutschland.  
 <br>
-**Zeit** t.b.a. **Ort** t.b.a.
+**Zeit** Freitag, 26.11.2021, 19 Uhr **Ort** t.b.a.
 </p>
 
 <p class="clear-both"></p>
