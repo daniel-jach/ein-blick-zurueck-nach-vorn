@@ -1,0 +1,37 @@
+body {
+  background-color: #FFFFFC;
+  color: #000000;
+  overflow: scroll;
+}
+
+.present h1, 
+.section .reveal h1,
+.present h3, 
+.section .reveal h3 {
+  font-weight: bold;
+  color: #AA151E;
+}
+
+.section, .section .reveal .state-background {
+  background-color: #FFFFFC;
+}
+
+.reveal .slides p {
+  color: #000000;
+}
+
+.img {
+  width: 100%;
+}
+
+emph {
+  font-weight: bold;
+  color: #FF7800;
+}
+
+.reveal a:not(.image):hover {
+  font-weight: bold;
+  color: #FF7800;
+}
+
+
