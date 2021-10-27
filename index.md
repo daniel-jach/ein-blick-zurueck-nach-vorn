@@ -25,7 +25,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Ersatz** Als Ersatz für den nicht genehmigten Vortrag von Guiling Wu spielen wir ein Deutschland-Quiz, schauen ein Video über das Studium und Leben chinesischer Studierender in Deutschland und Sie lernen Wege zum Studium in Deutschland kennen.  
 <br>
-**Zeit** 29.10.2021, 19 Uhr **Ort** Gebäude 3, Raum 30704
+**Zeit** 29.10.2021, 19 Uhr **Ort** Gebäude 3, Raum 30818
 </p>
 
 <p class="clear-both"></p>
