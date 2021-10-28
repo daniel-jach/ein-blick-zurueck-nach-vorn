@@ -3,7 +3,7 @@
 Ein Bick nach vorn
 ========================================================
 author: Dr. Daniel Jach (Südwest Jiaotong Universität)
-date: 14. Oktober 2021
+date: 29. Oktober 2021
 autosize: true
 css: vortrag.css
 transition: rotate
