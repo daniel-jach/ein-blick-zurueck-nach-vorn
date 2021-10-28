@@ -15,7 +15,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 **Guiling Wu** arbeitet im Bereich Kultur & Presse am Deutschen Generalkonsulat in Chengdu. Sie hat an der Fremdsprachenhochschule Sichuan (四川外国语大学) Germanistik studiert und anschließend in der Schweiz akademische und praktische Erfahrungen im Handel gemacht. Sie erzählt von ihrem Weg in die Schweiz und zurück nach China und was dabei neben dem Studium noch wichtig war.  
 <br>
 <strike><b>Zeit</b> 29.10.2021, 19 Uhr <b>Ort</b> t.b.a.</strike>
-<span style="color: black; font-weight: bold;">Nicht genehmigt wegen möglicher politischer Einflussnahme.</span>
+<span style="color: black; font-weight: bold;">Nicht genehmigt.</span>
 </p>
 
 <p class="clear-both"></p>
