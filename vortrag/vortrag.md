@@ -320,3 +320,10 @@ Studieren in DE! (留学德国)
 <video width="100%" controls>
   <source src="./vortrag-material/video-how-germany-changed-you.webm">
 </video>
+
+Vielen Dank für Ihre Aufmerksamkeit
+========================================================
+
+<center>
+<img src="./qr-code-vortrag.png" style="width:66%;"/>
+</center>
