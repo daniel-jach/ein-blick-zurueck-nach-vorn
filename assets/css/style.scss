@@ -60,6 +60,16 @@ background-image: linear-gradient(#AA151E,#AA151E);
   padding: 10px;
 }
 
+a, summary {
+  color: #AA151E;
+  font-weight: bold;
+}
+
+a:hover, summary:hover {
+  color: #FF871F;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 480px) {
     .img-left {
          width: 100%;
