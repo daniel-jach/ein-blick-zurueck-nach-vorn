@@ -37,7 +37,8 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Lihong Dai** lebt in Berlin und ist im Bereich *Technologie Consulting* tätig. Sie hat Germanistik in China studiert und anschließend einen Master *Deutsch als Fremdsprache* in Deutschland erworben. Sie erzählt ihre Geschichte, wie sie von China nach Deutschland kam und über Leben, Studium und Arbeit in ihrer neuen Heimat.  
 <br>
-**Zeit** 11.11.2021, 19 Uhr **Ort** t.b.a.
+**Zeit** 11.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([https://meeting.tencent.com/dm/FhAelHuZcsMG
+](https://meeting.tencent.com/dm/FhAelHuZcsMG))
 </p>
 
 <p class="clear-both"></p>
