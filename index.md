@@ -47,7 +47,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Tinghui Duan** promoviert seit 2018 in der Computerlinguistik der Universität Jena und arbeitet als wissenschaftlicher Mitarbeiter im Jenaer JULIE Lab. Er erzählt von seinem Studium, das ihn von der Renmin University of China (中国人民大学) in Beijing nach Deutschland, Österreich, Jordanien und in die Türkei geführt hat, und von seinem Leben als Forscher in Deutschland.  
 <br>
-**Zeit** 26.11.2021, 19 Uhr **Ort** t.b.a.
+**Zeit** 26.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([https://meeting.tencent.com/dm/2vIyBUduESio](https://meeting.tencent.com/dm/2vIyBUduESio))
 </p>
 
 <p class="clear-both"></p>
@@ -57,7 +57,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Studierende der Universität Würzburg** aus dem Studiengang *Modern China* kommen zum digitalen Erfahrungsaustausch. Die Studierenden zeigen Ihnen ihren Campus und erzählen von ihrem Leben. Sie haben auch Fragen an Sie und das Leben und Studium in China mitgebracht.    
 <br>
-**Zeit** t.b.a. **Ort** t.b.a.
+**Zeit** 10.12.2021 **Ort** t.b.a.
 </p>
 
 <p class="clear-both"></p>
