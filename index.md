@@ -65,7 +65,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 ![](images/study-in-germany.svg){: .img-left}
 
 <p class="text-right" markdown="1">
-Alles, was Sie für Ihren Weg von China nach Deutschland wissen müssen, finden Sie <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">hier</a>
+Alles, was Sie für Ihren Weg von China nach Deutschland wissen müssen: Wieso soll ich in DE studieren? Was soll ich studieren? Wo soll ich studieren? Wie soll ich das bezahlen? Antworten finden Sie <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">hier</a>.
 </p>
 
 <p class="clear-both"></p>
