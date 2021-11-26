@@ -25,7 +25,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 **Ersatz** Als Ersatz für den nicht genehmigten Vortrag von Guiling Wu spielen wir ein Deutschland-Quiz, schauen ein Video über das Studium und Leben chinesischer Studierender in Deutschland und Sie lernen Wege zum Studium in Deutschland kennen.
 <br>
 **Zeit** 29.10.2021, 19 Uhr **Ort** Gebäude 3, Raum 30818<br>
-**Vortrag** <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag/vortrag.pdf" target="_blank">Link</a>
+**Vortrag** <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">Link</a>
 </p>
 
 <p class="clear-both"></p>
@@ -65,7 +65,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 ![](images/study-in-germany.svg){: .img-left}
 
 <p class="text-right" markdown="1">
-Alles, was Sie für Ihren Weg von China nach Deutschland wissen müssen, finden Sie <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag/vortrag.pdf" target="_blank">hier</a>
+Alles, was Sie für Ihren Weg von China nach Deutschland wissen müssen, finden Sie <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">hier</a>
 </p>
 
 <p class="clear-both"></p>
