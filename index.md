@@ -8,6 +8,35 @@ Der Langsamste, der sein Ziel nicht aus den Augen verliert, geht immer noch gesc
 
 Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich werden? Die Antworten auf solche Fragen können nur Sie selbst finden. In *Ein Blick zurück nach vorn* haben Sie aber die Gelegenheit, sich die Antworten anderer anzuhören. Unsere Vortragenden sind Absolventen der Germanistik und in Wissenschaft, Wirtschaft oder Staatsdienst erfolgreich. Sie werfen einen Blick zurück auf ihr Studium in China, die Zeit danach und ihren Weg von China in die Welt und erzählen von Leben und Arbeit in Deutschland und anderswo. Ihre Geschichten sind persönlich, spannend, ermutigend und inspirierend. Nach jedem Vortrag erfahren Sie noch mehr über Studien-, Forschungs- und Arbeitsmöglichkeiten in Deutschland. Am Ende der Reihe treffen Sie außerdem auf andere Studierende in Deutschland, mit denen Sie Fragen, Antworten, Erfahrungen und Zukunftsträume austauschen können. 
 
+<span class="star fa fa-star"></span>
+<span class="star fa fa-star"></span>
+<span class="star fa fa-star"></span>
+<span class="star fa fa-star"></span>
+<span class="star-part-filled fa fa-star"></span>
+<span>4,74/5 (35 Bewertungen)</span>
+
+> Das war sehr inhaltsreich, informativ und interessant. Ich habe viel gelernt, was ich sonst nicht leicht lernen kann. (Jianing)
+
+> Lihong Dai erzählt uns ihr Universitätsleben in Deutschland. Das ist interessant, das habe ich noch nie erlebt. (Ziyi)
+
+> Nach diesem Vortrag ist mir klarer, wie ich einen Studium in Deutschland machen kann. (Jingyi)
+
+> Das hat mich dazu gebracht, mich nach einem Studium in Deutschland zu sehnen. (Xinyang)
+
+> Die Erfahrung von Frau Dai von China nach Deutschland gefällt mir sehr. Ihre Arbeiten am Deutschlernen und Eifer begeistern mich. (Yukun)
+
+> Dieser Vortrag gibt uns die Möglichkeit, etwas über das Lernen und Leben in Deutschland zu lernen. Und wir konnten Herrn Duan direkt Fragen stellen und seine Antworten bekommen. Wir haben durch den Vortrag viel gelernt. Dies ist sehr hilfreich für Studenten, die in Deutschland studieren werden. (Jingwen)
+
+> Weil Herr Duan seit vielen Jahren in Deutschland lebt und studiert hat, wirken seine Beschreibungen besonders real und aufrichtig. (Zhiyu)
+
+
+<div style="width:100%; padding-bottom:56.25%; position:relative;">
+  <iframe src="https://daniel-jach.github.io/gallery/blick-zurueck-nach-vorn.html" style="position:absolute; top:0px; left:0px; 
+  width:100%; height:100%; border: none; overflow: hidden;"></iframe>
+</div>
+
+<br>
+
 <img class="img-left" src="images/bild-guiling.jpg" style="filter: grayscale(100%);"/>
 
 <p class="text-right" markdown="1" style="color: gray;">
@@ -57,7 +86,7 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 <p class="text-right" markdown="1">
 **Studierende der Universität Würzburg** aus dem Studiengang *Modern China* kommen zum digitalen Erfahrungsaustausch. Die Studierenden zeigen Ihnen ihren Campus und erzählen von ihrem Leben. Sie haben auch Fragen an Sie und das Leben und Studium in China mitgebracht.    
 <br>
-**Zeit** 10.12.2021 **Ort** t.b.a.
+**Zeit** 10.12.2021, 19 Uhr **Ort** Online auf Zoom ([Link](https://uni-wuerzburg.zoom.us/j/98902813130?pwd=cmsyOGVqRFQrM2FZcSs2OU1ZRFhIQT09))
 </p>
 
 <p class="clear-both"></p>

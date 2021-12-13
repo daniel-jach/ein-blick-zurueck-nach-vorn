@@ -70,6 +70,37 @@ a:hover, summary:hover {
   text-decoration: none;
 }
 
+blockquote {
+  border-left: 4px solid #AA151E;
+  color: black; 
+  font-family: Gentium Basic;
+}
+
+.star {
+  display: inline-block;
+  position: relative;
+  font-size: 100px;
+  color: #FF871F;
+}
+
+.star-part-filled {
+  display: inline-block;
+  position: relative;
+  font-size: 100px;
+  color: #AA151E;
+}
+
+.star-part-filled:after {
+  font-family: FontAwesome;
+  content: "\f005";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 74%;
+  overflow: hidden;
+  color: #FF871F;
+}
+
 @media screen and (max-width: 480px) {
     .img-left {
          width: 100%;
