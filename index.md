@@ -29,11 +29,112 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 
 > Weil Herr Duan seit vielen Jahren in Deutschland lebt und studiert hat, wirken seine Beschreibungen besonders real und aufrichtig. (Zhiyu)
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
-<div style="width:100%; padding-bottom:56.25%; position:relative;">
-  <iframe src="https://daniel-jach.github.io/gallery/blick-zurueck-nach-vorn.html" style="position:absolute; top:0px; left:0px; 
-  width:100%; height:100%; border: none; overflow: hidden;"></iframe>
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="images/slideshow/img1.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="images/slideshow/img2.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="images/slideshow/img3.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="images/slideshow/img4.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 5</div>
+    <img src="images/slideshow/img5.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">6/ 6</div>
+    <img src="images/slideshow/img6.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 7</div>
+    <img src="images/slideshow/img7.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 8</div>
+    <img src="images/slideshow/img8.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">9 / 9</div>
+    <img src="images/slideshow/img9.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="images/slideshow/img10.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">11 / 11</div>
+    <img src="images/slideshow/img11.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">12 / 12</div>
+    <img src="images/slideshow/img12.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">13 / 13</div>
+    <img src="images/slideshow/img13.png" style="width:100%">
+    <!-- <div class="text">Caption Text</div> -->
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>
+  <span class="dot" onclick="currentSlide(10)"></span>
+  <span class="dot" onclick="currentSlide(11)"></span>
+  <span class="dot" onclick="currentSlide(12)"></span>
+  <span class="dot" onclick="currentSlide(13)"></span>
+</div> 
+
+<script src="assets/js/js_slideshow.js"></script> 
 
 <br>
 
