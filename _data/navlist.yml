@@ -1,0 +1,11 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home
+  url: ./../index.html
+
+- title: 2021
+  url: ./../2021/main.html
+  
+- title: 2022
+  url: ./../2022/main.html
