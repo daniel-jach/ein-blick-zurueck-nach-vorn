@@ -173,20 +173,12 @@
 
 <p class="clear-both"></p>
 
-![](images/logo-uni-wuerzburg.jpg){: .img-left}
+![](images/logo-uni-wuerzburg.png){: .img-left}
 
 <p class="text-right" markdown="1">
 **Studierende der Universität Würzburg** aus dem Studiengang *Modern China* kommen zum digitalen Erfahrungsaustausch. Die Studierenden zeigen Ihnen ihren Campus und erzählen von ihrem Leben. Sie haben auch Fragen an Sie und das Leben und Studium in China mitgebracht.    
 <br>
 **Zeit** 10.12.2021, 19 Uhr **Ort** Online auf Zoom ([Link](https://uni-wuerzburg.zoom.us/j/98902813130?pwd=cmsyOGVqRFQrM2FZcSs2OU1ZRFhIQT09))
-</p>
-
-<p class="clear-both"></p>
-
-![](images/study-in-germany.svg){: .img-left}
-
-<p class="text-right" markdown="1">
-Alles, was Sie für Ihren Weg von China nach Deutschland wissen müssen: Wieso soll ich in DE studieren? Was soll ich studieren? Wo soll ich studieren? Wie soll ich das bezahlen? Antworten finden Sie <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">hier</a>.
 </p>
 
 <p class="clear-both"></p>

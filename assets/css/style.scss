@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap, #project_title, #project_tagline, #footer_wrap {
+  background-color: #AA151E;
+  background-image: linear-gradient(#AA151E,#AA151E);
+  color: #FFF6F6;
+}
+
+#main_content_wrap {
+  background-color: #FFF6F6;
+  background-image: linear-gradient(#FFF6F6,#FFF6F6);
+  color: #3F3F3F;
+}
+
+
 .img-left {
   float: left;
   margin-right: 1em;
@@ -15,27 +28,13 @@
   float: right;
   width: 70%;
   margin-top: 20px;
+  color: #3F3F3F;
 }
 
 .clear-both {
   margin-top: 2em;
   margin-bottom: 2em;
   clear: both;
-}
-
-#header_wrap, #footer_wrap {
-background-color: #AA151E;
-background-image: linear-gradient(#AA151E,#AA151E);
-}
-
-#project_title, #project_tagline {
-  color: #FFFFFC;
-}
-
-#main_content_wrap {
-  background-color: #FFFFFC;
-  background-image: linear-gradient(#FFFFFC,#FFFFFC);
-  color: #000000;
 }
 
 .img-top {
@@ -60,19 +59,14 @@ background-image: linear-gradient(#AA151E,#AA151E);
   padding: 10px;
 }
 
-a, summary {
-  color: #AA151E;
-  font-weight: bold;
-}
-
-a:hover, summary:hover {
+a:hover {
   color: #FF871F;
   text-decoration: none;
 }
 
 blockquote {
   border-left: 4px solid #AA151E;
-  color: black; 
+  color: #3F3F3F; 
   font-family: Gentium Basic;
 }
 
@@ -80,7 +74,7 @@ blockquote {
   display: inline-block;
   position: relative;
   font-size: 100px;
-  color: #FF871F;
+  color: #FBAF00;
 }
 
 .star-part-filled {
@@ -98,7 +92,7 @@ blockquote {
   top: 0;
   width: 74%;
   overflow: hidden;
-  color: #FF871F;
+  color: #FBAF00;
 }
 
 @media screen and (max-width: 480px) {
