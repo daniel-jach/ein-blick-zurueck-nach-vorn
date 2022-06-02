@@ -4,79 +4,79 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="images/slideshow/img1.png" style="width:100%">
+    <img src="images/slideshow/img1.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="images/slideshow/img2.png" style="width:100%">
+    <img src="images/slideshow/img2.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="images/slideshow/img3.png" style="width:100%">
+    <img src="images/slideshow/img3.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="images/slideshow/img4.png" style="width:100%">
+    <img src="images/slideshow/img4.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">5 / 5</div>
-    <img src="images/slideshow/img5.png" style="width:100%">
+    <img src="images/slideshow/img5.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">6/ 6</div>
-    <img src="images/slideshow/img6.png" style="width:100%">
+    <img src="images/slideshow/img6.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">7 / 7</div>
-    <img src="images/slideshow/img7.png" style="width:100%">
+    <img src="images/slideshow/img7.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">8 / 8</div>
-    <img src="images/slideshow/img8.png" style="width:100%">
+    <img src="images/slideshow/img8.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">9 / 9</div>
-    <img src="images/slideshow/img9.png" style="width:100%">
+    <img src="images/slideshow/img9.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">10 / 10</div>
-    <img src="images/slideshow/img10.png" style="width:100%">
+    <img src="images/slideshow/img10.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">11 / 11</div>
-    <img src="images/slideshow/img11.png" style="width:100%">
+    <img src="images/slideshow/img11.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">12 / 12</div>
-    <img src="images/slideshow/img12.png" style="width:100%">
+    <img src="images/slideshow/img12.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">13 / 13</div>
-    <img src="images/slideshow/img13.png" style="width:100%">
+    <img src="images/slideshow/img13.jpg" style="width:100%">
     <!-- <div class="text">Caption Text</div> -->
   </div>
 
@@ -173,7 +173,7 @@
 
 <p class="clear-both"></p>
 
-![](images/logo-uni-wuerzburg.png){: .img-left}
+![](images/logo-uni-wuerzburg.jpg){: .img-left}
 
 <p class="text-right" markdown="1">
 **Studierende der Universität Würzburg** aus dem Studiengang *Modern China* kommen zum digitalen Erfahrungsaustausch. Die Studierenden zeigen Ihnen ihren Campus und erzählen von ihrem Leben. Sie haben auch Fragen an Sie und das Leben und Studium in China mitgebracht.    
