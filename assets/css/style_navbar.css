@@ -4,6 +4,8 @@
   padding: 0;
   overflow: hidden;
   background-color: #AA151E;
+  border-top: #FBAF00 solid 1px;
+  border-bottom: #FBAF00 solid 1px;
 }
 
 .nav li {
@@ -12,7 +14,7 @@
 
 .nav li a {
   display: block;
-  color: #FFFFFC;
+  color: #FBAF00;
   text-align: center;
   padding: 10px 10px;
   background-color: #AA151E;
@@ -24,8 +26,7 @@
 }
 
 .nav li a:hover {
-  background-color: #FFFFFC;
-  text-decoration: none;
+  text-decoration: underline;
+  font-size: 100%;
   top: -5px;
-  color: #AA151E;
 }
