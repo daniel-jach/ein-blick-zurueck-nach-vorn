@@ -146,7 +146,7 @@
 **Ersatz** Als Ersatz für den nicht genehmigten Vortrag von Guiling Wu spielen wir ein Deutschland-Quiz, schauen ein Video über das Studium und Leben chinesischer Studierender in Deutschland und Sie lernen Wege zum Studium in Deutschland kennen.
 <br>
 **Zeit** 29.10.2021, 19 Uhr **Ort** Gebäude 3, Raum 30818<br>
-**Vortrag** <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">Link</a>
+**Vortrag** <a href="https://daniel-jach.github.io/ein-blick-zurueck-nach-vorn/vortrag.pdf" target="_blank">Downloadlink</a>
 </p>
 
 <p class="clear-both"></p>
@@ -157,8 +157,7 @@
 <p class="text-right" markdown="1">
 **Lihong Dai** lebt in Berlin und ist im Bereich *Technologie Consulting* tätig. Sie hat Germanistik in China studiert und anschließend einen Master *Deutsch als Fremdsprache* in Deutschland erworben. Sie erzählt ihre Geschichte, wie sie von China nach Deutschland kam und über Leben, Studium und Arbeit in ihrer neuen Heimat.  
 <br>
-**Zeit** 11.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([https://meeting.tencent.com/dm/FhAelHuZcsMG
-](https://meeting.tencent.com/dm/FhAelHuZcsMG))
+**Zeit** 11.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([Tencent Meeting Link](https://meeting.tencent.com/dm/FhAelHuZcsMG))
 </p>
 
 <p class="clear-both"></p>
@@ -168,7 +167,7 @@
 <p class="text-right" markdown="1">
 **Tinghui Duan** promoviert seit 2018 in der Computerlinguistik der Universität Jena und arbeitet als wissenschaftlicher Mitarbeiter im Jenaer JULIE Lab. Er erzählt von seinem Studium, das ihn von der Renmin University of China (中国人民大学) in Beijing nach Deutschland, Österreich, Jordanien und in die Türkei geführt hat, und von seinem Leben als Forscher in Deutschland.  
 <br>
-**Zeit** 26.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([https://meeting.tencent.com/dm/2vIyBUduESio](https://meeting.tencent.com/dm/2vIyBUduESio))
+**Zeit** 26.11.2021, 19 Uhr **Ort** Online auf Tencent Meeting ([Tencent Meeting Link](https://meeting.tencent.com/dm/2vIyBUduESio))
 </p>
 
 <p class="clear-both"></p>
