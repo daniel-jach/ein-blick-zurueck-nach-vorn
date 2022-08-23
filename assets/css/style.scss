@@ -15,6 +15,9 @@
   color: #3F3F3F;
 }
 
+h2 {
+  color: #AA151E;
+}
 
 .img-left {
   float: left;
@@ -24,6 +27,8 @@
   margin-top: 20px;
   box-shadow: 2px 2px 8px #3F3F3F;
 }
+
+
 
 .text-right {
   float: right;
@@ -36,6 +41,12 @@
   margin-top: 2em;
   margin-bottom: 2em;
   clear: both;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 a {
