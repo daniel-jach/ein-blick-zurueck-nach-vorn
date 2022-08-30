@@ -11,10 +11,10 @@ Under construction
 </div>
 
 <div class="row">
-  <img class="img-left" src="images/dummy.jpeg"/>
+  <img class="img-left" src="images/img_flora.jpg"/>
 
   <p class="text-right" markdown="1">
-**Flora** Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio Bio 
+**Zhixuan Fu** lebt in Shanghai und arbeitet im Bereich Interkulturelles Training & Bildungsaustausch zwischen China und Deutschland. Sie hat Germanistik an der Zhejiang Universität studiert und anschließend einen Deutsch-als-Fremdsprache-Master in Heidelberg gemacht. Sie erzählt von ihren Erfahrungen in Deutschland, wie und warum sie ihr Studienfach gewählt hat und berichtet über Arbeitsmöglichkeiten im Bereich Kulturaustausch.
   <br>
   <b>Zeit</b> t.b.a., 19 Uhr <b>Ort</b> t.b.a.
   </p>
