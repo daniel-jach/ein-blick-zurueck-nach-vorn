@@ -18,10 +18,16 @@ Alles, was Sie für Ihren Weg von China nach Deutschland sonst noch wissen müss
 </div>
 
 
-* <a href="./material/vortrag.pdf" target="_blank">Deutsch-chinesische PDF-Slides</a> mit vielen nützlichen Infos zum Studium in Deuschland (Schritt-für-Schritt nach D, Zeitplan, Sprachprüfungen, Stipendien, ...). 
-* <a href="https://www.daad.org.cn/de/studieren-forschen-lehren-in-china/germanistik/daad-lektoren/">DAAD-Lektoren in Ihrer Nähe</a> finden und kontaktieren
-* [Stipendiendatenbank](https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/) nach Stipendium durchsuchen
-* Mit [Myguide](https://www.myguide.de/en/) den Weg nach D finden
+* [Deutsch-chinesische PDF-Slides](material/vortrag.pdf) mit vielen nützlichen Infos zum Studium in Deuschland (Schritt-für-Schritt nach D, Zeitplan, Sprachprüfungen, Stipendien, ...)
+
+* [DAAD-Lektoren in Ihrer Nähe](https://www.daad.org.cn/de/studieren-forschen-lehren-in-china/germanistik/daad-lektoren/) finden und kontaktieren
+* [Practical Guide](material/sid_en_2019.pdf) for international students
+* [Myguide](https://www.myguide.de/en/), meinen Weg nach D finden
+
+* [Stipendiendatenbank](https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/) durchsuchen
+* [DAAD Scholarships](material/studieren_forschen_engl_st11_2022.pdf) overview in English
+
+
 
 <div class="row">
 <img src="images/qr-daad.jpg" class="img-left" />
