@@ -1,0 +1,70 @@
+---
+format: 
+  revealjs:
+    theme: [css/speech_bubble.scss]
+    controls: false
+    menu: false
+    shuffle: true
+    auto-slide: 5000
+    loop: true
+    auto-slide-stoppable: true
+    progress: false
+---
+
+## {background-image="images/flyer-2022-09-sunyu.webp" background-size="contain"}
+
+## {background-image="images/flyer-2022-10-fuzhixuan.webp" background-size="contain"}
+
+## {background-image="images/flyer-2022-11-wangyili.webp" background-size="contain"}
+
+## {background-image="images/img_fu_01.webp" background-size="contain"}
+## {background-image="images/img_fu_02.webp" background-size="contain"}
+## {background-image="images/img_fu_03.webp" background-size="contain"}
+## {background-image="images/img_fu_04.webp" background-size="contain"}
+## {background-image="images/img_fu_05.webp" background-size="contain"}
+## {background-image="images/img_fu_06.webp" background-size="contain"}
+## {background-image="images/img_fu_07.webp" background-size="contain"}
+## {background-image="images/img_fu_08.webp" background-size="contain"}
+## {background-image="images/img_fu_09.webp" background-size="contain"}
+## {background-image="images/img_fu_10.webp" background-size="contain"}
+## {background-image="images/img_fu_11.webp" background-size="contain"}
+
+## {background-image="images/img_wang_01.webp" background-size="contain"}
+## {background-image="images/img_wang_02.webp" background-size="contain"}
+## {background-image="images/img_wang_03.webp" background-size="contain"}
+## {background-image="images/img_wang_04.webp" background-size="contain"}
+## {background-image="images/img_wang_05.webp" background-size="contain"}
+## {background-image="images/img_wang_06.webp" background-size="contain"}
+
+## {.center}
+<p class="triangle-isosceles left">学姐你好，我想问一下学姐是大三还是大四准备的DaF-Test？</p>
+## {.center}
+<p class="triangle-isosceles left">在德国留学两年 大概多少欧才够？</p>
+## {.center}
+<p class="triangle-isosceles right">学姐是从什么渠道了解自己可能攻读的专业与学校的？</p>
+## {.center}
+<p class="triangle-isosceles left">请问学姐，您身边学习德语口译专业的朋友都从事哪些职业了呢？都是译员吗？</p>
+## {.center}
+<p class="triangle-isosceles right">请问学姐写动机信有什么要求呀？</p>
+## {.center}
+<p class="triangle-isosceles left">请问学姐，你刚刚说，有比我们想象中更多的选择，可以说说你知道的选择有哪些嘛～？</p>
+## {.center}
+<p class="triangle-isosceles right">请问学姐交流和留学有什么具体的区别吗？哪一个选择更好一些？</p>
+## {.center}
+<p class="triangle-isosceles left">请问学姐对国内跨文化德语研究生项目有了解吗？</p>
+## {.center}
+<p class="triangle-isosceles right">请问学姐，你觉得德国人和中国人最大的不同是什么，好奇ing, 思维方式？待人接物？可以说一个小故事吗 ：）</p>
+## {.center}
+<p class="triangle-isosceles left">学姐你好，请问一下在DIY申请过程中会不会遇到比较难解决的问题呀？一般Daf专业申请会要求有德语教学的实习经历吗？</p>
+## {.center}
+<p class="triangle-isosceles right">请问除了语言成绩等哪些经历在申请德国大学时比较占优呀？</p>
+## {.center}
+<p class="triangle-isosceles left">目前大三德语专业，如果研究生想考德国的大学，目前可以准备些什么呢？</p>
+## {.center}
+<p class="triangle-isosceles right">德专生本科期间有较多专业课的情况下，可以通过怎样的方法寻找实习的机会，以及怎么平衡好学业和实习呢？谢谢！</p>
+## {.center}
+<p class="triangle-isosceles right">想知道在德国的社交生活怎么样呀？会有困难吗？</p>
+## {.center}
+<p class="triangle-isosceles right">我们学校现在德国留学项目有点少，如果不走学校项目，自己怎么申请德国研究生呢？</p>
+## {.center}
+<p class="triangle-isosceles left">德语专业能申请的只有文学、语言学、对外教育吗，如果有辅修可以申请别的专业吗？</p>

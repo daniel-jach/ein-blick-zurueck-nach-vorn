@@ -1,3 +1,7 @@
+
+<iframe style="width:100%; height: 400px;" src="slideshow/slideshow.html"></iframe>
+
+
 <div class="row">
   <img class="img-left" src="images/img_sunyu.png"/>
 
@@ -27,7 +31,7 @@
 **Wang Yili** lebt in Shanghai und arbeitet an der East China University of Science and Technology (ECUST). Sie hat an der Peking Universität in deutscher Literatur promoviert und währenddessen an der Freien Universität Berlin und der Humboldt-Universität studiert. Sie erzählt von ihrer Zeit in Deutschland, ihrer Promotion und ihrer Arbeit als Forscherin in Shanghai.
   </p>
   <p class="text-right" markdown="1">
-  t.b.a.<br>[Link zum Zoom-Meeting](https://us06web.zoom.us/j/87829276998?pwd=TFMzc1hmU2tRNlJ0OTJ5MWxaVUtmdz09)<br>Meeting ID: 878 2927 6998<br>Passcode: 124468
+  **24.11.2022, 19:00 Uhr**<br>[Link zum Zoom-Meeting](https://us06web.zoom.us/j/87829276998?pwd=TFMzc1hmU2tRNlJ0OTJ5MWxaVUtmdz09)<br>Meeting ID: 878 2927 6998<br>Passcode: 124468
   </p>
 </div>
 
