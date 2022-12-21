@@ -1,12 +1,12 @@
 ---
 format: 
   revealjs:
-    theme: [css/speech_bubble.scss]
-    controls: false
+    theme: [css/speech_bubble.scss, css/boxed.scss]
+    controls: true
     menu: false
-    shuffle: true
-    auto-slide: 5000
-    loop: true
+    shuffle: false
+    # auto-slide: 5000
+    loop: false
     auto-slide-stoppable: true
     progress: false
 ---
@@ -18,23 +18,74 @@ format:
 ## {background-image="images/flyer-2022-11-wangyili.webp" background-size="contain"}
 
 ## {background-image="images/img_fu_01.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_02.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_03.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_04.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_05.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_06.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_07.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_08.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_09.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_10.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 ## {background-image="images/img_fu_11.webp" background-size="contain"}
+::: {.boxed}
+Fu Zhixuan, Event-Managerin bei SinaLingua (Shanghai)
+:::
 
 ## {background-image="images/img_wang_01.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 ## {background-image="images/img_wang_02.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 ## {background-image="images/img_wang_03.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 ## {background-image="images/img_wang_04.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 ## {background-image="images/img_wang_05.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 ## {background-image="images/img_wang_06.webp" background-size="contain"}
+::: {.boxed}
+Wang Yili, Wissenschaftlerin bei ECUST (Shanghai)
+:::
 
 ## {.center}
 <p class="triangle-isosceles left">学姐你好，我想问一下学姐是大三还是大四准备的DaF-Test？</p>
@@ -68,3 +119,72 @@ format:
 <p class="triangle-isosceles right">我们学校现在德国留学项目有点少，如果不走学校项目，自己怎么申请德国研究生呢？</p>
 ## {.center}
 <p class="triangle-isosceles left">德语专业能申请的只有文学、语言学、对外教育吗，如果有辅修可以申请别的专业吗？</p>
+
+## {background-image="images/img_wb_01.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_02.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_03.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_04.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_05.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_06.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_07.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_08.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_09.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_10.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_11.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_12.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_13.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_14.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_15.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_16.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
+## {background-image="images/img_wb_17.webp" background-size="contain"}
+::: {.boxed}
+Treffen mit Sinologie-Studierenden der Universität Würzburg
+:::
