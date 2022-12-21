@@ -4,9 +4,9 @@ format:
     theme: [css/speech_bubble.scss, css/boxed.scss]
     controls: true
     menu: false
-    shuffle: false
-    # auto-slide: 5000
-    loop: false
+    shuffle: true
+    auto-slide: 5000
+    loop: true
     auto-slide-stoppable: true
     progress: false
 ---
