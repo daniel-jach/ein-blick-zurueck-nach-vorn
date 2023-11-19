@@ -140,8 +140,6 @@
 
 <p class="clear-both"></p>
 
-![](images/study-in-germany.svg){: .img-left}
-
 <p class="text-right" markdown="1">
 **Ersatz** Als Ersatz für den nicht genehmigten Vortrag von Guiling Wu spielen wir ein Deutschland-Quiz, schauen ein Video über das Studium und Leben chinesischer Studierender in Deutschland und Sie lernen Wege zum Studium in Deutschland kennen.
 <br>
