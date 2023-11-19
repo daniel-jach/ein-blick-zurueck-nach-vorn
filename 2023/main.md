@@ -23,7 +23,7 @@
 <div class='row'>
   <img class="img-left" src="images/he_mingyang.jpg"/>
   <p class='text-right' markdown='1'>
-  **Mingyang He** (赫明阳) arbeitet er als Dateningenieur bei der Deutschen Bahn AG. Er schloss 2017 sein Germanistikstudium an der Ocean University of China ab und setzte sein Studium an der Universität Heidelberg fort, wo er seinen Master in Germanistik im Kulturvergleich absolvierte. Während dieser Zeit erwarb er auch seinen Bachelor in Computerlinguistik und arbeitete nacheinander als wissenschaftliche Hilfskraft in der Computerlinguistik bei der HD NLP Group, am Leibniz-Institut für Deutsche Sprache und am Universitätsklinikum Heidelberg Dieterich Lab.
+  **Mingyang He** (赫明阳) arbeitet als Dateningenieur bei der Deutschen Bahn AG. Er schloss 2017 sein Germanistikstudium an der Ocean University of China ab und setzte sein Studium an der Universität Heidelberg fort, wo er seinen Master in Germanistik im Kulturvergleich absolvierte. Während dieser Zeit erwarb er auch seinen Bachelor in Computerlinguistik und arbeitete nacheinander als wissenschaftliche Hilfskraft in der Computerlinguistik bei der HD NLP Group, am Leibniz-Institut für Deutsche Sprache und am Universitätsklinikum Heidelberg Dieterich Lab.
   </p>
   <p class="text-right" markdown="1">
   **26.11.2023, 19 Uhr**<br>[Link zum Tencent-Meeting](https://meeting.tencent.com/dm/y8SlKJoVrcuN)<br>Meeting ID: 298-732-646

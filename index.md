@@ -11,7 +11,6 @@ Wohin führt mein Weg nach dem Studium? Welchen Beruf wähle ich? Wer will ich w
 ## Studieren in D
 
 <div class="row">
-<img src="images/SiG_Logo_de_transparent.png" class="img-left" />
 <p class="text-right" markdown="1">
 Alles, was Sie für Ihren Weg von China nach Deutschland sonst noch wissen müssen: Wieso soll ich in DE studieren? Was soll ich studieren? Wo soll ich studieren? Wie soll ich das bezahlen? Antworten finden Sie hier.
 </p>
