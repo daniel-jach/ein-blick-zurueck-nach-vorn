@@ -1,15 +1,3 @@
----
-format: html
----
-
-<center>
-```{r slideshow, results='asis', echo=FALSE}
-source('./../_extensions/fcn_image_carousel.R')
-image_carousel('slideshow_images/')
-```
-</center>
-
-
 <div class="row">
   <img class="img-left" src="images/wang_yingyue.jpg"/>
 
