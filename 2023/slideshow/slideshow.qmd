@@ -1,0 +1,110 @@
+---
+format: 
+  revealjs:
+    theme: [css/speech_bubble.scss, css/boxed.scss]
+    controls: true
+    menu: false
+    shuffle: true
+    auto-slide: 5000
+    loop: true
+    auto-slide-stoppable: true
+    progress: false
+---
+
+
+## {background-image="images/ebznv_001.webp" background-size="contain"}
+
+## {background-image="images/ebznv_002.webp" background-size="contain"}
+
+## {background-image="images/ebznv_003.webp" background-size="contain"}
+
+## {background-image="images/ebznv_004.webp" background-size="contain"}
+
+## {background-image="images/ebznv_005.webp" background-size="contain"}
+
+## {background-image="images/ebznv_006.webp" background-size="contain"}
+
+## {background-image="images/ebznv_007.webp" background-size="contain"}
+
+## {background-image="images/ebznv_008.webp" background-size="contain"}
+
+## {background-image="images/ebznv_009.webp" background-size="contain"}
+
+## {background-image="images/ebznv_010.webp" background-size="contain"}
+
+## {background-image="images/ebznv_011.webp" background-size="contain"}
+
+## {background-image="images/ebznv_012.webp" background-size="contain"}
+
+## {background-image="images/ebznv_013.webp" background-size="contain"}
+
+## {background-image="images/ebznv_014.webp" background-size="contain"}
+
+## {background-image="images/ebznv_015.webp" background-size="contain"}
+
+## {background-image="images/ebznv_016.webp" background-size="contain"}
+
+## {background-image="images/ebznv_017.webp" background-size="contain"}
+
+## {background-image="images/ebznv_018.webp" background-size="contain"}
+
+## {background-image="images/ebznv_019.webp" background-size="contain"}
+
+## {background-image="images/ebznv_020.webp" background-size="contain"}
+
+## {background-image="images/ebznv_021.webp" background-size="contain"}
+
+## {background-image="images/ebznv_022.webp" background-size="contain"}
+
+## {background-image="images/ebznv_023.webp" background-size="contain"}
+
+## {background-image="images/ebznv_024.webp" background-size="contain"}
+
+## {background-image="images/ebznv_025.webp" background-size="contain"}
+
+## {background-image="images/ebznv_026.webp" background-size="contain"}
+
+## {background-image="images/ebznv_027.webp" background-size="contain"}
+
+## {background-image="images/ebznv_028.webp" background-size="contain"}
+
+## {background-image="images/ebznv_029.webp" background-size="contain"}
+
+## {background-image="images/ebznv_030.webp" background-size="contain"}
+
+## {background-image="images/ebznv_031.webp" background-size="contain"}
+
+## {background-image="images/ebznv_032.webp" background-size="contain"}
+
+## {background-image="images/ebznv_033.webp" background-size="contain"}
+
+## {background-image="images/ebznv_034.webp" background-size="contain"}
+
+## {background-image="images/ebznv_035.webp" background-size="contain"}
+
+## {background-image="images/ebznv_036.webp" background-size="contain"}
+
+## {background-image="images/ebznv_037.webp" background-size="contain"}
+
+## {background-image="images/ebznv_038.webp" background-size="contain"}
+
+## {background-image="images/ebznv_039.webp" background-size="contain"}
+
+## {background-image="images/ebznv_040.webp" background-size="contain"}
+
+## {background-image="images/ebznv_041.webp" background-size="contain"}
+
+## {background-image="images/ebznv_042.webp" background-size="contain"}
+
+## {background-image="images/ebznv_043.webp" background-size="contain"}
+
+## {background-image="images/ebznv_044.webp" background-size="contain"}
+
+## {background-image="images/ebznv_045.webp" background-size="contain"}
+
+## {background-image="images/ebznv_046.webp" background-size="contain"}
+
+## {background-image="images/ebznv_047.webp" background-size="contain"}
+
+
+
