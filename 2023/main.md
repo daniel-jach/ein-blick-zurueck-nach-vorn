@@ -1,3 +1,5 @@
+<iframe style="width:100%; height: 400px;" src="slideshow/slideshow.html"></iframe>
+
 <div class="row">
   <img class="img-left" src="images/wang_yingyue.jpg"/>
 
