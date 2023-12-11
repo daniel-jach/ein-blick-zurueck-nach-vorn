@@ -31,3 +31,15 @@
   **26.11.2023, 19 Uhr**<br>[Link zum Tencent-Meeting](https://meeting.tencent.com/dm/y8SlKJoVrcuN)<br>Meeting ID: 298-732-646
   </p>
 </div>
+
+<div class="row">
+
+  <img src="images/logo-uni-wuerzburg.png" class="img-left" />
+
+  <p class="text-right" markdown="1">
+  **Studierende der Universität Würzburg** aus dem Studiengang *Modern China* kommen zum digitalen Erfahrungsaustausch. Diesmal ist das Thema unseres Treffens: *Wie sehen Sie sich in fünf Jahren?* Tauschen Sie sich über Zukunftsträume, Berufsabsichten, Familienplanung und alles, was Ihnen sonst noch einfällt, aus. Das Treffen ist nur für Studierende der SWJTU geöffnet. 
+  </p>
+  <p class="text-right" markdown="1">
+  **08.12.2022**
+  </p>
+</div>
